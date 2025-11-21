@@ -1,0 +1,25 @@
+{
+  "name": "expresssix",
+  "version": "1.0.0",
+  "description": "fsixth repo of express",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdafnaan/expressSix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohdafnaan/expressSix/issues"
+  },
+  "homepage": "https://github.com/mohdafnaan/expressSix#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
